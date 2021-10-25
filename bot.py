@@ -16,7 +16,7 @@ adminList = [2019219922]; # Админы
 
 # База данных
 mydb = mysql.connector.connect(
-  host="localhost",
+  host="sr40.hostlife.net",
   user="booga198_Adm",
   password="090501",
   database="booga198_Card"
